@@ -106,3 +106,9 @@ padding-top: 1em;}
     padding-top: 1em;
 }
 
+.social-links {
+   display:flex;
+   justify-content: space-evenly;
+
+
+}
