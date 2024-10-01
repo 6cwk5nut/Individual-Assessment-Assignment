@@ -7,12 +7,10 @@
     background-color: blueviolet;
 } 
 
-.navbar-light { color:white; font-family: Oswald, sans-serif;
 
-} 
 .pink-background {
     background-color: #ee82ee;
-}
+    }
 
 #principles {
     background-color: orange !important;
@@ -27,19 +25,84 @@
 
 .list-group-item {
     background-color: yellow;
-}
+    }
+
+
 
 #resources {
     background-color: green;
 }
 
-.btn {background-color:green}
+.btn {
+    background-color:green
+}
+
+.green-background {
+    background-color: green;
+}
 
 body {
     background-color: lightgray;
 }
 
+/* navbar*/
+
+.navbar-light { 
+    color:white; 
+    font-family: Oswald, sans-serif;
+
+} 
+
+.navbar a {
+    color:white;
+}
 
 
+/* jumbotron*/
 
+.jumbotron {
+    color: white;
+    text-align: justify;
+    font-family: Lato sans-serif;
+}
+
+/*priciples*/
+
+#principles {
+    color:white;
+    text-align: center;
+    font-family: Oswald, sans-serif;
+    padding-bottom: 1em;
+}
+
+/*best practices*/
+
+#best-practices {
+    font-family: Oswald, sans-serif ;
+    text-align: center;
+    color:blue;
+    padding-top: 1em;
+   
+}
+
+.list-group-item {
+    font-family: Oswald, sans-serif ;
+    text-align: center;
+    padding-bottom: 1em;
+    
+}
+/*Footer*/
+
+#resources {
+    color:white;
+font-family: Oswald, sans-serif;
+text-align: center;
+padding-top: 1em;} 
+
+.general-sub {
+    color:white;
+    font-family: Oswald, sans-serif;
+    text-align: center;
+    padding-top: 1em;
+}
 
