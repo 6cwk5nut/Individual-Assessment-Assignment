@@ -45,7 +45,7 @@ DESIGN
 
 A manual outline of the project was created as a wireframe. This is shown below.  
  
-![ Manual Wireframe](/workspace/Individual-Assessment-Assignment/assets/images/4a80bc31-6ede-4e18-96b5-84d92237fb0c.jpg)
+![ Manual Wireframe](assets/images/4a80bc31-6ede-4e18-96b5-84d92237fb0c.jpg)
 
 
 **The header section**
@@ -69,7 +69,7 @@ Color Scheme
 
 The color scheme chosen was a part of a rainbow chart as shown below. This choice was selected as a key feature of the page as it is now recognised a wroldwide symbol of diversity and equality.    
 
-![ Rainbow Chart](/workspace/Individual-Assessment-Assignment/assets/images/4c3d9618-8da7-424e-bcd2-db59e61e9a12.jpg)
+![ Rainbow Chart](assets/images/4c3d9618-8da7-424e-bcd2-db59e61e9a12.jpg)
 
 
 Fonts 
