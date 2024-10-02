@@ -78,4 +78,12 @@ The font families *Oswald* and *Lato* from *Google Fonts* were used to create th
 
 *Font Awesome* was used to create the image icons of the social media elements. 
 
+TESTING AND VALIDATION
+
+The project was tested on Chrome Development Tools to check the responsiveness on a number of media sizes and was found to be responsive.
+
+ThE W3C Markup Validation Service was used to validate the index.html file of the project. Two errors were detected and corrected.
+
+The W3c CSS Validation Service was used to validate the css file of the project. No errors were detected.  
+
 
