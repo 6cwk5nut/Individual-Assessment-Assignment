@@ -84,6 +84,6 @@ The project was tested on Chrome Development Tools to check the responsiveness o
 
 ThE W3C Markup Validation Service was used to validate the index.html file of the project. Two errors were detected and corrected.
 
-The W3c CSS Validation Service was used to validate the css file of the project. No errors were detected.  
+The W3c CSS Validation Service was used to validate the css file of the project. One detected error was corrected. The css file was rechecked in the validator and was found to be free of error. One warning was also taken care of.   
 
 
